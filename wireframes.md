@@ -29,18 +29,3 @@ These wireframes show the basic structure of the Smart Online Shopping applicati
 - Total price
 - Checkout button
 
----
-
-## Wireframe Images
-
-### Login Screen
-![Login](./wireframes/login.png)
-
-### Home Screen
-![Home](./wireframes/home.png)
-
-### Product Screen
-![Product](./wireframes/product.png)
-
-### Cart Screen
-![Cart](./wireframes/cart.png)
