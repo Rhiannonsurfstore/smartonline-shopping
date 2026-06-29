@@ -10,7 +10,6 @@ Start → Login/Register → Home Page → select product → Add to Cart → Ch
 ---
 
 ## Visual Diagram
-
-(Upload image below in repository and link it here)
+userflow1.png
 
 ![User Flow Diagram](https://app.diagrams.net/)
