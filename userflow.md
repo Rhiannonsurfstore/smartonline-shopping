@@ -12,4 +12,4 @@ Start → Login/Register → Home Page → select product → Add to Cart → Ch
 ## Visual Diagram
 userflow1.png
 
-![User Flow Diagram](https://app.diagrams.net/)
+![User Flow Diagram](https://github.com/Rhiannonsurfstore/smartonline-shopping/blob/main/userflow1.png)
