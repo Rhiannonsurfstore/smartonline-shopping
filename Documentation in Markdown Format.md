@@ -85,8 +85,7 @@ The application includes the following features:
 https://sienna-comma-82317510.figma.site/
 
 ### Interactive Prototype
-
-**To be added (Paste your Figma prototype link here.)**
+https://github.com/Rhiannonsurfstore/smartonline-shopping
 
 ---
 
